@@ -52,16 +52,4 @@ spl_autoload_register(function ($class_name) {
     echo $role2."<br>";
 
 
-
-
-/*On doit pouvoir afficher (reste à faire) :
-    
-    •la liste des rôles d'un acteur (nom du rôle et titre du film)
-    
-
-    •toutes les informations d'un film (titre, année, durée en HH:MM, genre, liste des acteurs (nom + prénom), réalisateur (nom + prénom))
-    •tous les films d'un acteur (film + nom du rôle)
-    •la liste des acteurs ayant incarné un rôle précis (nom + prénom de l'acteur et film dans lequel le rôle a été incarné)*/
-
-
 ?>
